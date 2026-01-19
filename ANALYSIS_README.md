@@ -22,7 +22,12 @@ This analysis provides the following documents:
    - Tool state lifecycle
    - Usage examples and best practices
 
-3. **[examples/tool_usage_example.py](./examples/tool_usage_example.py)** - Python 实用示例
+3. **[TOOL_ARCHITECTURE.md](./TOOL_ARCHITECTURE.md)** - 架构图和可视化
+   - Tool 系统架构图
+   - 状态生命周期可视化
+   - 使用流程图
+
+4. **[examples/tool_usage_example.py](./examples/tool_usage_example.py)** - Python 实用示例
    - 完整的工具使用代码示例
    - 同步和异步客户端示例
    - 工具状态监控示例
